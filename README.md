@@ -1,1 +1,1 @@
-# Eatly
+# Recipe App
