@@ -1,0 +1,49 @@
+{
+"recipe": [
+{
+    "id": 1,
+    "type": "Starter",
+    "image": "@drawable/grill.jpg",
+    "line1": "Full Grill With",
+    "line2": "Eggless Mayonnaise",
+    "time": "45",
+    "serving": "4"
+  },
+  {
+    "id": 2,
+    "type": "Dessert",
+    "image": "@drawable/jamun.jpg",
+    "line1": "Paneer Jamun",
+    "line2": "With Milk Rabdi",
+    "time": "60",
+    "serving": "6"
+  },
+  {
+    "id": 3,
+    "type": "Pasta",
+    "image": "@drawable/pasta.jpg",
+    "line1": "Spaghetti With",
+    "line2": "Shrimp Sauce",
+    "time": "30",
+    "serving": "1"
+  },
+  {
+    "id": 4,
+    "type": "Local",
+    "image": "@drawable/meat.jpg",
+    "line1": "Meat Satay With",
+    "line2": "Brown Sauce",
+    "time": "40",
+    "serving": "2"
+  },
+  {
+    "id": 5,
+    "type": "Gravy",
+    "image": "@drawable/drumstick.jpg",
+    "line1": "Drumstick Sambar",
+    "line2": "With Onion Rings",
+    "time": "25",
+    "serving": "4"
+  }
+  ]
+  }
