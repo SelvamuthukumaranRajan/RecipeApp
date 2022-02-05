@@ -19,7 +19,7 @@ Login Screen
 </h4>
 
 <p align="center">
-   <img width=350 src="./drawable/login_screen.png" />
+   <img width=350 src="./app/src/main/res/drawable/login_screen.png" />
 </p>
 
 <h4 align="center">
@@ -27,8 +27,8 @@ Home Screen
 </h4>
 
 <p align="center">
-   <img width=350 src="./drawable/home_screen1.png" />
-   <img width=350 src="./drawable/home_screen2.png" />
+   <img width=350 src="./app/src/main/res/drawable/home_screen1.png" />
+   <img width=350 src="./app/src/main/res/drawable/home_screen2.png" />
 </p>
 
 <h4 align="center">
@@ -36,6 +36,6 @@ Recipe Details Screen
 </h4>
 
 <p align="center">
-   <img width=350 src="./drawable/recipe_details.png" />
+   <img width=350 src="./app/src/main/res/drawable/recipe_details.png" />
 </p>
 
